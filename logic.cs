@@ -1,1 +1,1 @@
-public class LOGIC { }
+public class logic a { }
