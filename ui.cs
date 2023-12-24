@@ -6,10 +6,16 @@
 5 sonrasýnda yeni açtýðýnýz dal ile birleþtirin
 6 2 kod satýrýnda birini seçin diðer simgleri silin
 7 yeniden commit yapýn (birleþtirme commiti)
-8
+
 public class UI
 {
-    public void Update();
+
+    public void Update(
+
+        int a = 10;
+
+    int b = 5;
+        );
     int c = 5;
     int b = 5;
     int b = 6;
