@@ -1,10 +1,17 @@
 
+
+
+
 public class UI
 {
     public void Update();
     int c = 5;
     int b = 5;
     int b = 6;
+    int abc;
+
+
+
 
 
     public void kullanicilariGetir();
