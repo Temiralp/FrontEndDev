@@ -1,3 +1,2 @@
-public class yeniBir { }
-public class yeni { }
+public class yeniClass { }
 public class beta { }
