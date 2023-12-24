@@ -8,7 +8,8 @@ public class UI
     int c = 5;
     int b = 5;
     int b = 6;
-    int abc;
+    int abc = 15;
+    int cde = 25;
 
 
 
