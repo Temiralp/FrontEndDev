@@ -1,7 +1,8 @@
 
 public class UI
 {
-    int c = 0;
+    public void Update();
+    int c = 5;
     int b = 5;
     public void PlayerAttack()
     {
