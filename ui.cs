@@ -13,7 +13,6 @@ public class UI
     int bcd = 27;
     int abc = 15;
     int cde = 25;
-    int xxx = 12;
         
 }
 
