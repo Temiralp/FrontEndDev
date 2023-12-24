@@ -1,20 +1,8 @@
 
 public class UI
 {
-    public void Update();
-    int c = 5;
+    int c = 0;
     int b = 5;
-
-    public void kullanicilariGetir();
-
-    public void KullanicilariveUyeleriGetir(
-        
-        1
-        1
-        1
-        1
-        11
-        );
     public void PlayerAttack()
     {
         health = 10;
