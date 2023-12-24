@@ -1,3 +1,12 @@
+/*
+ 1 yeni bir dal açın (git checkout -b dalınismi)
+ 2 yeni açılan dalda aynı satırı düzenleyin
+ 3 master dalına yeniden geçin 
+ 4 master dalında aynı satırı değiştirin
+ 5 sonrasında yeni açtığınız dal ile birleştirin
+ 6 2 kod satırında birini seçin diğer simgleri silin
+ 7 yenidenn commit yapın (birleştirme commiti)
+*/
 
 public class UI
 {
