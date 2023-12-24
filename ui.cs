@@ -18,6 +18,7 @@ public class UI
     int b = 5;
     int b = 6;
     int abc;
+    int deneme= "123";
 
 
 
