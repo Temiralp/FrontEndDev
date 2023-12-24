@@ -1,6 +1,11 @@
 
-
-
+1 yeni bir dal açýn (git checkout -b dalýnismi) 
+2 yeni açýlan dalda ayný satýrý düzenleyin
+3 master dalýna yeniden geçin
+4 masterlýnda ayný satýrý deðiþtirin
+5 sonrasýnda yeni açtýðýnýz dal ile birleþtirin
+6 2 kod satýrýnda birini seçin diðer simgleri silin
+7 yeniden commit yapýn (birleþtirme commiti)
 
 public class UI
 {
@@ -8,10 +13,6 @@ public class UI
     int c = 5;
     int b = 5;
     int b = 6;
-    int abc;
-
-
-
 
 
     public void kullanicilariGetir();
