@@ -5,7 +5,7 @@
  4 master dalında aynı satırı değiştirin
  5 sonrasında yeni açtığınız dal ile birleştirin
  6 2 kod satırında birini seçin diğer simgleri silin
- 7 yenidenn commit yapın (birleştirme commiti)
+ 7 yeniden commit yapın (birleştirme commiti)
 */
 
 
