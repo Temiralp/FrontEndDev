@@ -1,1 +1,4 @@
-public class LOGIC { }
+public class LOGIC {
+    public void LogicTest();
+
+}
