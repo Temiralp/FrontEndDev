@@ -1,1 +1,1 @@
-public class beta { }
+public class beta1 { }
