@@ -5,14 +5,13 @@
 public class UI
 {
     public void Update();
+
+    int a = 4;
     int c = 5;
-    int b = 5;
     int b = 6;
 
     int abc = 17;
     int bcd = 27;
-    int abc = 15;
-    int cde = 25;
         
 }
 
