@@ -1,10 +1,21 @@
 
+
+
+
 public class UI
 {
     public void Update();
+
+    int a = 4;
     int c = 5;
-    int b = 5;
     int b = 6;
+
+    int abc = 17;
+    int bcd = 27;
+        
+}
+
+
 
 
     public void kullanicilariGetir();
@@ -15,11 +26,11 @@ public class UI
         1
         1
         1
-        11
-        );
+        1   );
     public void PlayerAttack()
     {
         health = 10;
+        power = 10;
         if(health < 0)
         {
             Player.Die(Playerscore--);
@@ -32,6 +43,8 @@ public class UI
     public void EnemyAttack()
     {
         health = 10;
+        power = 10;
+
 
 
 
